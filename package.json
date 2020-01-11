@@ -1,16 +1,16 @@
 {
-  "_from": "@getzeroday/gatsby-theme-novela@^0.*",
+  "_from": "@negati-ve/gatsby-theme-novela@^0.*",
   "_inBundle": false,
   "_integrity": "sha512-jM48RqaNMSs/41ZvVJJOWkYq95EFHD63HBeweZJFCblU61mpF6tCTjX9O1GcK9DUj/G6/gRTuv0iD3oTlw3nFg==",
-  "_location": "/@getzeroday/gatsby-theme-novela",
+  "_location": "/@negati-ve/gatsby-theme-novela",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "@getzeroday/gatsby-theme-novela@^0.*",
-    "name": "@getzeroday/gatsby-theme-novela",
-    "escapedName": "@getzeroday%2fgatsby-theme-novela",
-    "scope": "@getzeroday",
+    "raw": "@negati-ve/gatsby-theme-novela@^0.*",
+    "name": "@negati-ve/gatsby-theme-novela",
+    "escapedName": "@negati-ve%2fgatsby-theme-novela",
+    "scope": "@negati-ve",
     "rawSpec": "^0.*",
     "saveSpec": null,
     "fetchSpec": "^0.*"
@@ -18,13 +18,13 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@getzeroday/gatsby-theme-novela/-/gatsby-theme-novela-0.10.5.tgz",
+  "_resolved": "https://registry.npmjs.org/@negati-ve/gatsby-theme-novela/-/gatsby-theme-novela-0.10.5.tgz",
   "_shasum": "2706a09ba0d53a213332a5b4e0d11a8ea8ab6f5a",
-  "_spec": "@getzeroday/gatsby-theme-novela@^0.*",
+  "_spec": "@negati-ve/gatsby-theme-novela@^0.*",
   "_where": "/Users/zed/Lab/experiments/novela-site",
-  "author": "dennis@getzeroday.co",
+  "author": "dennis@negati-ve.co",
   "bugs": {
-    "url": "https://github.com/getzeroday/gatsby-theme-novela/issues"
+    "url": "https://github.com/negati-ve/gatsby-theme-novela/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -71,14 +71,14 @@
     "typeface-merriweather": "^0.0.72"
   },
   "deprecated": false,
-  "description": "<a href=\"https://gatsby-theme-novela.netlify.com\" target=\"_blank\"> <img src=\"https://raw.githubusercontent.com/getzeroday/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg\" alt=\"gatsby-novela-theme hero image\" /> </a>",
+  "description": "<a href=\"https://gatsby-theme-novela.netlify.com\" target=\"_blank\"> <img src=\"https://raw.githubusercontent.com/negati-ve/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg\" alt=\"gatsby-novela-theme hero image\" /> </a>",
   "devDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "homepage": "https://github.com/getzeroday/gatsby-theme-novela#readme",
+  "homepage": "https://github.com/negati-ve/gatsby-theme-novela#readme",
   "keywords": [
-    "getzeroday",
+    "negati-ve",
     "gatsby",
     "gatsby-plugin",
     "gatsby-theme",
@@ -90,7 +90,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "@getzeroday/gatsby-theme-novela",
+  "name": "@negati-ve/gatsby-theme-novela",
   "peerDependencies": {
     "gatsby": "^2.15.7",
     "react": "^16.8.6",
@@ -98,7 +98,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getzeroday/gatsby-theme-novela.git"
+    "url": "git+https://github.com/negati-ve/gatsby-theme-novela.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -109,5 +109,5 @@
     "develop": "gatsby develop",
     "publish": "npm publish --access public"
   },
-  "version": "0.10.5"
+  "version": "0.10.6"
 }
